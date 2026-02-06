@@ -1,18 +1,24 @@
-## Getting Started
+# Java Project Banque en Ligne
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Description
+Simple Java application for managing ...
+Thème : Abstraction/Polymorphisme, exceptions financières, multi-comptes
+Fonctionnalités :
+- Comptes Courant/Epargne
+- Virements (internes/externes)
+- Relevés PDF
+- Intérêts automatiques
+- Historique 12 mois
 
-## Folder Structure
+## Technologies
+- Java 17
+- Maven
+- OOP (Encapsulation, Inheritance, Polymorphism)
+- Java Swing pour l'interface utilisateur
+- Exceptions personnalisées pour la gestion des erreurs métier
+- Design Patterns appropriés (Strategy, Observer, Factory) 
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## How to Run
+1. Clone repository
+2. Open in IDE
+3. Run Main.java
