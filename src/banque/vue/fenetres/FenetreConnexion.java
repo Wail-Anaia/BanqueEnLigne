@@ -96,8 +96,8 @@ public class FenetreConnexion extends JPanel {
         JLabel infoTest = new JLabel(
             "<html><div style='text-align: center;'>" +
             "Comptes de test:<br>" +
-            "• jean.dupont@email.com / password123<br>" +
-            "• marie.martin@email.com / password456" +
+            "• wail.anaia@gmail.com / password123<br>" +
+            "• yasser.oussahel@gmail.com / password456" +
             "</div></html>", 
             JLabel.CENTER
         );

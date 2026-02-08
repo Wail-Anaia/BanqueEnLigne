@@ -16,14 +16,14 @@ public class CompteControleur {
     }
     
     private void initialiserDonneesTest() {
-        // Comptes pour jean.dupont@email.com (C001)
+        // Comptes pour wail.anaia@gmail.com (C001)
         CompteCourant cc1 = new CompteCourant("CC001", "C001", 500.0);
         cc1.deposer(1500.0);
         
         CompteEpargne ce1 = new CompteEpargne("CE001", "C001");
         ce1.deposer(3000.0);
         
-        // Comptes pour marie.martin@email.com (C002)
+        // Comptes pour yasser.oussahel@gmail.com" (C002)
         CompteCourant cc2 = new CompteCourant("CC002", "C002", 1000.0);
         cc2.deposer(2500.0);
         
