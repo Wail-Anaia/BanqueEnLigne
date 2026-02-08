@@ -1,24 +1,35 @@
-# Java Project Banque en Ligne
+# Banque en Ligne – Java Project
 
 ## Description
-Simple Java application for managing ...
-Thème : Abstraction/Polymorphisme, exceptions financières, multi-comptes
-Fonctionnalités :
-- Comptes Courant/Epargne
-- Virements (internes/externes)
-- Relevés PDF
-- Intérêts automatiques
-- Historique 12 mois
+Banque en Ligne is a Java desktop application simulating an online banking system.
+The project focuses on advanced Object-Oriented Programming concepts and clean
+software architecture.
+
+**Main themes:**
+- Abstraction & Polymorphism
+- Financial business exceptions
+- Multi-account management
+
+## Features
+- Current and Savings accounts
+- Internal and external transfers
+- Automatic interest calculation
+- PDF bank statements
+- Transaction history (last 12 months)
+- Robust validation using custom financial exceptions
 
 ## Technologies
 - Java 17
 - Maven
-- OOP (Encapsulation, Inheritance, Polymorphism)
-- Java Swing pour l'interface utilisateur
-- Exceptions personnalisées pour la gestion des erreurs métier
-- Design Patterns appropriés (Strategy, Observer, Factory) 
+- Java Swing (Desktop UI)
+- Object-Oriented Programming (Encapsulation, Inheritance, Polymorphism)
+- Custom business exceptions
+- Design Patterns:
+  - Strategy
+  - Observer
+  - Factory
 
 ## How to Run
-1. Clone repository
-2. Open in IDE
-3. Run Main.java
+1. Clone the repository
+2. Open the project in your IDE (VS Code / Eclipse)
+3. Run `Main.java`
